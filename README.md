@@ -6,5 +6,4 @@ This project was constructed using C++ with [OpenCV2](https://opencv.org) and [L
 
 ##
 **Thanks**
-This project idea was initially inspired based off of [Brendan Kirtlan](https://github.com/Brendan-Kirtlan)'s project of a very similar nature which I found in this YouTube [video](https://www.youtube.com/watch?v=_w6PCHutmb4).
-> Written with [StackEdit](https://stackedit.io/).
+> This project idea was initially inspired based off of [Brendan Kirtlan](https://github.com/Brendan-Kirtlan)'s project of a very similar nature which I found in this YouTube [video](https://www.youtube.com/watch?v=_w6PCHutmb4).
